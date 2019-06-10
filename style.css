@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    border-top: 10px solid green;
+}
+
+header{
+    background-image: url("img/banner.png");
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    height: 580px;
+    width: 100%;
+
+}
+
+/* Definir cor para mais de um elemento
+h1, p{
+    color: white;
+}
+*/
+
+#titulo{
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+span{
+    color: green;
+}
+
+p{
+    margin: 0;
+    color: white;
+}
+
+#direito{
+    display: flex;
+    align-items: flex-end;
+}
+
+#esquerdo{
+    
+}
